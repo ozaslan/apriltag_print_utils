@@ -30,7 +30,3 @@ pip3 install glob
 pip3 install pathlib
 ```
 
-## Authors
-
-* **Tolga Ozaslan**
-
